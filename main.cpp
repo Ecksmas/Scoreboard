@@ -69,7 +69,7 @@ int main() {
     }
 
     // Prints the individual contestants score
-    cout << "\tThe contestants points are:\n"
+    cout << "\n\tThe contestants points are:\n"
          << "\n\tContestant 1:\t" << totalScore[1]
          << "\n\tContestant 2:\t" << totalScore[2]
          << "\n\tContestant 3:\t" << totalScore[3];
