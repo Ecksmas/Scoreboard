@@ -29,10 +29,9 @@ int main() {
      */
 
     // This array initialisation assumes that the score will be random at every runtime
-    int contestantSize = 3,
-    contestant1[contestantSize],
-    contestant2[contestantSize],
-    contestant3[contestantSize],
+    int contestant1[3],
+    contestant2[3],
+    contestant3[3],
     totalScore[4],
     totalScoreSize = sizeof(totalScore)/sizeof(int),
     maxScore = 0,
